@@ -5,5 +5,10 @@ null,
 {"id":3,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Tunic","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
 {"id":4,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Ring of Defence","note":"","params":[0,0,0,10,10,0,0,0],"price":300},
 {"id":5,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Ring of Luck","note":"","params":[0,0,0,0,10,0,0,10],"price":300},
-{"id":6,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Ring of Agility","note":"","params":[0,0,0,0,10,0,10,0],"price":300}
+{"id":6,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Ring of Agility","note":"","params":[0,0,0,0,10,0,10,0],"price":300},
+{"id":7,"atypeId":5,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":128,"name":"Heavy Shield","note":"","params":[0,0,0,20,0,0,0,0],"price":700},
+{"id":8,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":132,"name":"Nord Helmet","note":"","params":[0,0,0,25,0,0,0,0],"price":1000},
+{"id":9,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":132,"name":"Wizard's Hat","note":"","params":[0,100,0,10,0,0,0,0],"price":800},
+{"id":10,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Nord Armor","note":"","params":[0,0,0,30,0,0,0,0],"price":300},
+{"id":11,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0.1}],"iconIndex":134,"name":"Crown of a Lost King","note":"","params":[100,100,10,10,10,10,10,10],"price":0}
 ]
